@@ -20,9 +20,11 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, customers)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Customer Success/Support Lead ensures customer-facing teams are informed and prepared for releases
+- Customer Success/Support Lead synthesizes customer feedback and escalations for Product and Engineering prioritization
 
 ## Communication Templates
 Weekly Status Template:

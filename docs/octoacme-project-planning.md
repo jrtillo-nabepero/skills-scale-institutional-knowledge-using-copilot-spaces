@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Coordinate with UX/UI Designer to align on user flows, design reviews, and prototyping timelines
+8. Coordinate with Technical Writer to plan documentation needs and identify features requiring user-facing docs
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +43,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/UI design reviews scheduled for user-facing features
+- [ ] Documentation requirements identified with Technical Writer

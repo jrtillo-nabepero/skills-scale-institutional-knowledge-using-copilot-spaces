@@ -50,6 +50,41 @@ Each sprint, release, or significant milestone concludes with a retrospective th
 
 **Typical Communication:** Weekly status updates and stakeholder reports; risk registers and decision logs; coordination via project boards and meeting facilitation.
 
+### UX/UI Designer
+**Responsibilities:** UX/UI Designers research user needs, design intuitive interfaces, and validate usability through prototyping and testing. They conduct user research, create wireframes and prototypes, define interaction patterns, collaborate on feasibility, maintain design systems, and validate designs through user feedback.
+
+**Goals:** Deliver intuitive, accessible, and delightful user experiences; reduce friction and improve satisfaction; ensure consistency across product surfaces.
+
+**Typical Communication:** Design reviews with cross-functional teams; user research readouts; prototype demos; collaboration in planning sessions.
+
+### Technical Writer
+**Responsibilities:** Technical Writers create clear, accurate, and user-centered documentation. They write and maintain user guides, API documentation, and release notes, collaborate with Engineering on feature documentation, ensure accuracy through review, establish documentation standards, and gather feedback from users and support teams.
+
+**Goals:** Enable users and developers to self-serve efficiently; reduce support burden through comprehensive documentation; maintain accuracy and consistency.
+
+**Typical Communication:** Documentation reviews with Engineering and Product; collaboration during feature planning; content audits; release notes coordination.
+
+### QA Lead
+**Responsibilities:** QA Leads define and execute testing strategies to ensure quality, reliability, and adherence to acceptance criteria. They create and maintain test plans, execute manual testing, coordinate automated testing, identify quality risks early, report defects clearly, and facilitate bug triage.
+
+**Goals:** Deliver high-quality, reliable software with minimal production defects; ensure features meet acceptance criteria; improve test coverage over time.
+
+**Typical Communication:** Test plan reviews during sprint planning; daily standup participation; bug triage meetings; QA signoff reports before releases.
+
+### DevOps Engineer
+**Responsibilities:** DevOps Engineers build and maintain infrastructure, automation, and deployment pipelines. They design CI/CD pipelines, manage infrastructure provisioning and monitoring, implement deployment strategies, establish observability through logging and metrics, respond to incidents, and ensure security best practices.
+
+**Goals:** Enable fast, safe, and repeatable software deployments; maintain high system availability; reduce manual toil through automation.
+
+**Typical Communication:** Deployment planning and coordination; incident response and post-mortems; infrastructure capacity planning; pipeline demos.
+
+### Customer Success/Support Lead
+**Responsibilities:** Customer Success/Support Leads advocate for customer needs and manage escalations. They manage customer onboarding and support, triage and resolve issues, collect and synthesize customer feedback, identify support patterns, develop knowledge base articles, and track customer satisfaction metrics.
+
+**Goals:** Maximize customer satisfaction and adoption; reduce time to resolution; minimize recurring support requests; provide actionable customer insights.
+
+**Typical Communication:** Weekly syncs on escalations and trends; customer issue triage meetings; feedback sessions; collaboration on documentation; release readiness reviews.
+
 ### Stakeholders
 **Role:** Stakeholders provide inputs, context, and approvals throughout the project lifecycle. They may include engineering leaders, sales, support, security, and executive sponsors depending on project scope and impact.
 
