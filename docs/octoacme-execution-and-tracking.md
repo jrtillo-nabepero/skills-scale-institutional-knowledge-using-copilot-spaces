@@ -22,6 +22,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead coordinates test strategy, creates test plans, executes exploratory testing, and provides QA signoff before releases
+- QA Lead facilitates bug triage and tracks defect resolution
+- DevOps Engineer ensures CI/CD pipeline health and automated test execution
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +41,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead test plans reviewed and approved
+- [ ] DevOps Engineer confirms deployment pipeline readiness
